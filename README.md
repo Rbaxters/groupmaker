@@ -1,0 +1,1 @@
+A program that take students and can put them into differetn group sizes based on user input. It also allows for the exclusion of 2 students from working in the same group. There can be at most 2 pairs of students who can be excluded.
